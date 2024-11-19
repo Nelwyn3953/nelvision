@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Example video data (replace with your actual video URLs and thumbnails)
     const videos = [
-        { title: '1st video', url: 'Videos/BHS1.mp4', thumbnail: 'a1.jpg' },
+        { title: '1st video', url: 'Videos/BHS1.mp4', thumbnail: 'https://raw.githubusercontent.com/Nelwyn3953/nelvision/refs/heads/main/a1.jpg' },
     ];
 
     // Dynamically create video gallery items
