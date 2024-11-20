@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Example video data (use your own URLs from Dropbox or other services)
     const videos = [
-    { title: 'NelVision', url: 'https://drive.google.com/file/d/13qqHNNu-g9jrv55No7jKytaRPGR_4ykB/view?usp=drivesdk', thumbnail: 'a1.jpg' }
+    { title: 'NelVision', url: 'https://drive.google.com/uc?export=download&id=13qqHNNu-g9jrv55No7jKytaRPGR_4ykB', thumbnail: 'a1.jpg' }
 ];
 
     // Dynamically create video gallery items
