@@ -1,9 +1,11 @@
 document.addEventListener('DOMContentLoaded', function () {
     const galleryContainer = document.querySelector('.gallery-container');
 
-    // Example video data (replace with your actual video URLs and thumbnails)
+    // Example video data (use your own URLs from Dropbox or other services)
     const videos = [
-        { title: '1st video', url: 'https://www.dropbox.com/scl/fi/zh9ff5caw2pvhvgeaia41/BulakanonHS-Makilala-West-District.mp4?rlkey=0rffh2biswtupdueh5moadk51&st=5wgso2ia&dl=0', thumbnail: 'https://raw.githubusercontent.com/Nelwyn3953/nelvision/refs/heads/main/a1.jpg' },
+        { title: 'Amazing Journey', url: 'https://www.dropbox.com/s/example1.mp4?dl=1', thumbnail: 'thumb1.jpg' },
+        { title: 'Cinematic Wonders', url: 'https://www.dropbox.com/s/example2.mp4?dl=1', thumbnail: 'thumb2.jpg' },
+        { title: 'Visual Masterpiece', url: 'https://www.dropbox.com/s/example3.mp4?dl=1', thumbnail: 'thumb3.jpg' }
     ];
 
     // Dynamically create video gallery items
