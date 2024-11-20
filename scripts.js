@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Example video data (use your own URLs from Dropbox or other services)
     const videos = [
-    { title: 'Amazing Journey', url: 'https://uc314ce767f9b88cc5b5d3edd582.dl.dropboxusercontent.com/cd/0/inline/Cetq4h5QrBhCB1NhCIjR_aw3OxwJkM5axGL__qcWI950ghJfVwZK0TciCsQxzSCWO0Q21-B7J2q3OXQ1T9f-z-Q1OFILhpIJtDwu__OVlb100ZTMJpk8SYPvyZ-6bRUlXcdavp-hrZ-WKoPhNtTc4T4Y/file#', thumbnail: 'a1.jpg' }
+    { title: 'Pangandoy', url: 'https://uc314ce767f9b88cc5b5d3edd582.dl.dropboxusercontent.com/cd/0/inline/Cetq4h5QrBhCB1NhCIjR_aw3OxwJkM5axGL__qcWI950ghJfVwZK0TciCsQxzSCWO0Q21-B7J2q3OXQ1T9f-z-Q1OFILhpIJtDwu__OVlb100ZTMJpk8SYPvyZ-6bRUlXcdavp-hrZ-WKoPhNtTc4T4Y/file#', thumbnail: 'a1.jpg' }
 ];
 
     // Dynamically create video gallery items
