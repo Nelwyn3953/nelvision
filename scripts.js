@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Example video data (use your own URLs from Dropbox or other services)
     const videos = [
-    { title: 'Pangandoy', url: 'https://www.dropbox.com/scl/fi/zh9ff5caw2pvhvgeaia41/BulakanonHS-Makilala-West-District.mp4?rlkey=0rffh2biswtupdueh5moadk51&st=akxcjwd6&raw=1', thumbnail: 'a1.jpg' }
+    { title: 'Pangandoy v1', url: 'https://www.dropbox.com/scl/fi/zh9ff5caw2pvhvgeaia41/BulakanonHS-Makilala-West-District.mp4?rlkey=0rffh2biswtupdueh5moadk51&st=akxcjwd6&raw=1', thumbnail: 'a1.jpg' },
+      { title: 'Pangandoy v2', url: 'https://www.dropbox.com/scl/fi/3fh1xdkthhzfvus70h6ym/BulakanonHS-Makilala-West-District-v2.mp4?rlkey=xk3eb7bmve1748k18kr53zeb1&st=6bgsm129&raw=1', thumbnail: 'a2' }  
 ];
 
     // Dynamically create video gallery items
